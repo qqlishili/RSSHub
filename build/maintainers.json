@@ -1127,6 +1127,9 @@
   "/bnext/": [
     "johan456789"
   ],
+  "/bntnews/:category?": [
+    "iamsnn"
+  ],
   "/bnu/bs/:category?": [
     "nczitzk"
   ],
@@ -1227,6 +1230,9 @@
   "/bupt/scss/tzgg": [
     "ziri2004"
   ],
+  "/bwsg*": [
+    "sk22"
+  ],
   "/byau/news/:type_id": [
     "ueiu"
   ],
@@ -1291,6 +1297,9 @@
   "/camchina/:id?": [
     "nczitzk"
   ],
+  "/canada.ca/news/:lang/:department?": [
+    "elibroftw"
+  ],
   "/cankaoxiaoxi/column/:id?": [
     "yuxinliu-alex",
     "nczitzk"
@@ -1313,6 +1322,9 @@
   ],
   "/cara/timeline/:user": [
     "KarasuShin"
+  ],
+  "/carousell/:region/:keyword": [
+    "TonyRL"
   ],
   "/cartoonmad/comic/:id": [
     "KellyHwong"
@@ -1371,6 +1383,9 @@
   ],
   "/ccac/news/:type/:lang?": [
     "linbuxiao"
+  ],
+  "/ccagm/:category{.+}?": [
+    "nczitzk"
   ],
   "/cccfna/:category/:type?": [
     "hualiong"
@@ -1638,6 +1653,9 @@
   ],
   "/cline/blog": [
     "yeshan333"
+  ],
+  "/cloudflarestatus/": [
+    "nczitzk"
   ],
   "/cloudnative/blog": [
     "aneasystone"
@@ -2170,7 +2188,13 @@
   "/dgtle/article/:id?/:pushed?": [
     "nczitzk"
   ],
+  "/dgtle/feed": [
+    "nczitzk"
+  ],
   "/dgtle/news/:id?": [
+    "nczitzk"
+  ],
+  "/dgtle/tag/:id": [
     "nczitzk"
   ],
   "/dgtle/video": [
@@ -2537,15 +2561,136 @@
   "/ebc/realtime/:category?": [
     "quiniapiezoelectricity"
   ],
-  "/ecnu/bksy": [
+  "/ecnu/art": [
+    "FrozenStarrrr",
     "ChiyoYuki",
-    "FrozenStarrrr"
+    "ECNU-minus"
+  ],
+  "/ecnu/bksy": [
+    "FrozenStarrrr",
+    "ChiyoYuki",
+    "ECNU-minus"
+  ],
+  "/ecnu/cee": [
+    "FrozenStarrrr",
+    "ChiyoYuki",
+    "ECNU-minus"
+  ],
+  "/ecnu/chem": [
+    "FrozenStarrrr",
+    "ChiyoYuki",
+    "ECNU-minus"
+  ],
+  "/ecnu/chinese": [
+    "FrozenStarrrr",
+    "ChiyoYuki",
+    "ECNU-minus"
+  ],
+  "/ecnu/comm": [
+    "FrozenStarrrr",
+    "ChiyoYuki",
+    "ECNU-minus"
   ],
   "/ecnu/acm/contest/:category?": [
     "a180285"
   ],
+  "/ecnu/cs": [
+    "FrozenStarrrr",
+    "ChiyoYuki",
+    "ECNU-minus"
+  ],
+  "/ecnu/dase": [
+    "FrozenStarrrr",
+    "ChiyoYuki",
+    "ECNU-minus"
+  ],
+  "/ecnu/dx": [
+    "FrozenStarrrr",
+    "ChiyoYuki",
+    "ECNU-minus"
+  ],
+  "/ecnu/dxb": [
+    "FrozenStarrrr",
+    "ChiyoYuki",
+    "ECNU-minus"
+  ],
+  "/ecnu/ed": [
+    "FrozenStarrrr",
+    "ChiyoYuki",
+    "ECNU-minus"
+  ],
+  "/ecnu/geoai": [
+    "FrozenStarrrr",
+    "ChiyoYuki",
+    "ECNU-minus"
+  ],
+  "/ecnu/ghcollege": [
+    "FrozenStarrrr",
+    "ChiyoYuki",
+    "ECNU-minus"
+  ],
+  "/ecnu/history": [
+    "FrozenStarrrr",
+    "ChiyoYuki",
+    "ECNU-minus"
+  ],
   "/ecnu/jwc": [
     "markbang"
+  ],
+  "/ecnu/mks": [
+    "FrozenStarrrr",
+    "ChiyoYuki",
+    "ECNU-minus"
+  ],
+  "/ecnu/mxcsy": [
+    "FrozenStarrrr",
+    "ChiyoYuki",
+    "ECNU-minus"
+  ],
+  "/ecnu/pharm": [
+    "FrozenStarrrr",
+    "ChiyoYuki",
+    "ECNU-minus"
+  ],
+  "/ecnu/philo": [
+    "FrozenStarrrr",
+    "ChiyoYuki",
+    "ECNU-minus"
+  ],
+  "/ecnu/phy": [
+    "FrozenStarrrr",
+    "ChiyoYuki",
+    "ECNU-minus"
+  ],
+  "/ecnu/psy": [
+    "FrozenStarrrr",
+    "ChiyoYuki",
+    "ECNU-minus"
+  ],
+  "/ecnu/sees": [
+    "FrozenStarrrr",
+    "ChiyoYuki",
+    "ECNU-minus"
+  ],
+  "/ecnu/sei": [
+    "FrozenStarrrr",
+    "ChiyoYuki",
+    "ECNU-minus"
+  ],
+  "/ecnu/spm": [
+    "FrozenStarrrr",
+    "ChiyoYuki",
+    "ECNU-minus"
+  ],
+  "/ecnu/stat": [
+    "FrozenStarrrr",
+    "ChiyoYuki",
+    "ECNU-minus"
+  ],
+  "/ecnu/tyxx": [
+    "FrozenStarrrr",
+    "ChiyoYuki",
+    "ECNU-minus"
   ],
   "/ecnu/yjs": [
     "shengmaosu"
@@ -3105,6 +3250,9 @@
   "/geocaching/blogs/:language?": [
     "HankChow",
     "Konano"
+  ],
+  "/gesiba*": [
+    "sk22"
   ],
   "/getdr/": [
     "nczitzk"
@@ -4067,6 +4215,9 @@
     "zeyugao",
     "ovo-tim"
   ],
+  "/huggingface/models/:group": [
+    "WuNein"
+  ],
   "/huijin-inv/news": [
     "la3rence"
   ],
@@ -4099,6 +4250,9 @@
   ],
   "/hupu/:category?": [
     "nczitzk",
+    "hyoban"
+  ],
+  "/hupu/news/:team": [
     "hyoban"
   ],
   "/hust/gs/:category{.+}?": [
@@ -4426,7 +4580,7 @@
   "/ithome/tw/feeds/:category": [
     "miles170"
   ],
-  "/iwara/users/:username?/:type?": [
+  "/iwara/users/:username/:type?": [
     "Fatpandac"
   ],
   "/iwara/subscriptions": [
@@ -6124,6 +6278,12 @@
   "/oeeee/app/reporter/:id": [
     "TimWu007"
   ],
+  "/oesw*": [
+    "sk22"
+  ],
+  "/oevw/:json?": [
+    "sk22"
+  ],
   "/oilchem/:type?/:category?/:subCategory?": [
     "nczitzk"
   ],
@@ -6372,7 +6532,8 @@
     "micheal-death",
     "AiraNadih",
     "DIYgod",
-    "hyoban"
+    "hyoban",
+    "Rongronggg9"
   ],
   "/picnob.info/user/:id/:type?": [
     "TonyRL"
@@ -6547,6 +6708,9 @@
   "/priconne-redive/news/:server?": [
     "SayaSS",
     "frankcwl"
+  ],
+  "/producereport/:category{.+}?": [
+    "nczitzk"
   ],
   "/producthunt/today": [
     "miaoyafeng",
@@ -6859,6 +7023,9 @@
     "WhiteWorld",
     "nczitzk",
     "Fatpandac"
+  ],
+  "/readsomethingwonderful/": [
+    "ttttmr"
   ],
   "/readwise/list/:routeParams?": [
     "xbot"
@@ -7717,6 +7884,9 @@
   "/supchina/podcasts": [
     "nczitzk"
   ],
+  "/supercell/:game/blog/:locale?": [
+    "fishyo"
+  ],
   "/surfshark/blog/:category{.+}?": [
     "nczitzk"
   ],
@@ -7889,6 +8059,9 @@
   "/techflowpost/express": [
     "nczitzk"
   ],
+  "/techflowpost/featured/:category?": [
+    "zhenlohuang"
+  ],
   "/techflowpost/": [
     "nczitzk"
   ],
@@ -7979,6 +8152,9 @@
     "Fatpandac",
     "jameshih",
     "DIYgod"
+  ],
+  "/thebrain/blog": [
+    "nczitzk"
   ],
   "/thecover/channel/:id?": [
     "yuxinliu-alex"
@@ -8242,7 +8418,11 @@
     "dzx-dzx"
   ],
   "/tumblr/posts/:blog": [
-    "Rakambda"
+    "Rakambda",
+    "PolarisStarnor"
+  ],
+  "/tumblr/tagged/:tag": [
+    "PolarisStarnor"
   ],
   "/tvb/news/:category?/:language?": [
     "nczitzk"
@@ -8631,6 +8811,9 @@
   "/washingtonpost/app/:category{.+}?": [
     "quiniapiezoelectricity"
   ],
+  "/wbv-gpa/:category?/:state?": [
+    "sk22"
+  ],
   "/wchscu/recruit": [
     "ViggoC"
   ],
@@ -8774,6 +8957,9 @@
   "/whu/gs/:type?": [
     "Delreyaa"
   ],
+  "/wiensued*": [
+    "sk22"
+  ],
   "/wikinews/latest": [
     "KotoriK"
   ],
@@ -8813,6 +8999,9 @@
   ],
   "/wnacg/tag/:tag": [
     "Gandum2077"
+  ],
+  "/wogem/:page?": [
+    "sk22"
   ],
   "/wohnnet/:category/:region/*": [
     "sk22"
@@ -8859,6 +9048,9 @@
   ],
   "/x-mol/paper/:type/:magazine": [
     "cssxsh"
+  ],
+  "/x410/news": [
+    "nczitzk"
   ],
   "/x6d/:id?": [
     "nczitzk"
@@ -9147,6 +9339,9 @@
   ],
   "/yna/:lang?/:channel?": [
     "quiniapiezoelectricity"
+  ],
+  "/ynet/list/:category?/:id?": [
+    "nczitzk"
   ],
   "/yoasobi-music/info/:category?": [],
   "/yoasobi-music/live": [
